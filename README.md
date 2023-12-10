@@ -1,1 +1,1 @@
-# -mdjahedahmed666
+Currently, I am studying MSc Software Engineering at University of Hertfordshire, passionate about front-end development. My modules have allowed me to develop knowledge and skills in the models, methodologies, measures, and tools that can be employed in software development considered an engineering discipline.
